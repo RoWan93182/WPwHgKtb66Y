@@ -5,6 +5,5 @@
 - If you're willing to contribute to the list, please keep the format as below:
 
 [ Name of company under which it is offered ] ( the main link )
-
 - Some description about what it is - or just provide the main link, that's fine, like in the Udemy courses.
 - Add some tags to easily make people understand what it's related to - it's something I should do too, as well.
