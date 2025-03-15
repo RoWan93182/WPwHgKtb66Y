@@ -1,5 +1,4 @@
 # Hi!
-
 - This is the first time I'm doing something like this, and I don't have much experience with contribution - just the basic pull requests, issues.
 
 - If you're willing to contribute to the list, please keep the format as below:
