@@ -756,7 +756,6 @@ The detailed introduction is as follows:
 
 ### Standard LazyLoad
 
-Development process: Multiple teams are developed in the same code base, and only need to use this code to deploy.
 
 Behavior: development, construction, and operation
 
