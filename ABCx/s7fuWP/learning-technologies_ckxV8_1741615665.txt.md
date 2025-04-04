@@ -4,7 +4,6 @@ Contributions are encouraged and welcomed. Here are some guidelines for particip
 
 ## How to behave and interact
 
-We are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, disability, ethnicity, religion, political beliefs, or similar personal characteristic.
 
 We require that anyone wishing to participate in this community adhere to the following guidelines:
 
