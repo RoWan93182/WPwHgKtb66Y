@@ -139,7 +139,6 @@ This release introduces some breaking changes to the API:
 - The `Execution` constructor is no longer visible. `Execution` instances must now be constructed via `Execution.of(policies)`.
 - `Execution.getWaitTime()` was renamed to `getDelay()`.
 
-#### Failsafe class
 
 - `Failsafe.with(P[] policies)` was removed in favor of `Failsafe.with(P, P...)`. This should only affect users who were explicitly passing an array to `Failsafe.with`.
 
