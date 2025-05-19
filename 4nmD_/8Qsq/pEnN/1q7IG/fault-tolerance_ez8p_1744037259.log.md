@@ -95,7 +95,6 @@
 This release introduces some breaking changes to the API:
 
 #### General
-
 - The maven group id for Failsafe has changed to `dev.failsafe`. Be sure to update your build config.
 - All files have been moved to the `dev.failsafe` package. Be sure to update your imports.
 
