@@ -36,7 +36,6 @@ watcher = "cyan"
 main_only = false
 time = false
 
-[misc]
 clean_on_exit = false
 
 [screen]
