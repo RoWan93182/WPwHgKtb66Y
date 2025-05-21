@@ -346,7 +346,6 @@ Added support for `CompletionStage` to the `Fallback` policy.
 ### Bug Fixes
 
 - Issue #191 - Add missing listeners to RetryPolicy copy constructor.
-- Issue #192 - Problem with detecting completion when performing async execution.
 
 # 2.0.1
 
