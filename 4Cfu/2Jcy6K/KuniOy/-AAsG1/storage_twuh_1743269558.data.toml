@@ -14,7 +14,6 @@ include_dir = []
 include_file = []
 kill_delay = "0s"
 poll_interval = 0
-rerun = false
 rerun_delay = 500
 send_interrupt = false
 [color]
