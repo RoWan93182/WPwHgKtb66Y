@@ -343,7 +343,6 @@ Added support for `CompletionStage` to the `Fallback` policy.
 
 - Issue #191 - Add missing listeners to RetryPolicy copy constructor.
 
-# 2.0.1
 
 ### Improvements
 
