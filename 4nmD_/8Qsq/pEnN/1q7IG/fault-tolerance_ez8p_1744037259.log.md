@@ -652,7 +652,6 @@ Failsafe 2.0 includes a few API changes from 1.x that were meant to consolidate 
 * Make ContextualRunnable throw Exception
 
 # 0.3.2
-
 ### New Features
 
 * Add support for retrying when an invocation result matches a policy
