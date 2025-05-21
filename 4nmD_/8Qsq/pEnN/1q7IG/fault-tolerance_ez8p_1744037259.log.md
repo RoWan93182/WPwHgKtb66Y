@@ -251,7 +251,6 @@ The following changes effect the SPI classes, for users who are extending Failsa
 
 ### Bug Fixes
 
-- Fixed #240 - `handleResult(null)` always triggering when an exception is thrown.
 
 # 2.3.3
 
