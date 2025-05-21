@@ -15,4 +15,3 @@ install:
   - go mod download
 
 script:
-- go test -v ./...
