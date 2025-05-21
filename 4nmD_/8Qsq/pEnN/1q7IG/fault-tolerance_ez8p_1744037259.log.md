@@ -430,7 +430,6 @@ Failsafe 2.0 includes a few API changes from 1.x that were meant to consolidate 
 * Issue #116 - Setting jitter without a delay works fine bug
 * Issue #123 - Ability to reset the jitterFactor
 
-### Improvements
 
 * Issue #110 - Added support for computed delays: `RetryPolicy.withDelay(DelayFunction)`
 * Issue #126 - Added support for random delays: `RetryPolicy.withDelay(1, 10, TimeUnit.MILLISECONDS)`
