@@ -7,6 +7,5 @@ cache:
 
 install:
   - go mod tidy
-  - go mod download
 
 script:
