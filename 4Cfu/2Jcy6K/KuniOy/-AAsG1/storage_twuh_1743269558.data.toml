@@ -23,7 +23,6 @@ watcher = "cyan"
 
 [log]
 main_only = false
-time = false
 
 clean_on_exit = false
 [screen]
