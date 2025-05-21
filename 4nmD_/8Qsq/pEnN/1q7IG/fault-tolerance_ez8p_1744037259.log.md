@@ -457,7 +457,6 @@ Failsafe 2.0 includes a few API changes from 1.x that were meant to consolidate 
 
 ### Bug Fixes
 
-* Fixed #76 - Make sure AsyncExecution.completeOrRetry is called when Error is thrown.
 
 # 1.0.2
 
