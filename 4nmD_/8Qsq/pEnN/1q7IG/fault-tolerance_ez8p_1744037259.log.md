@@ -147,7 +147,6 @@ The following changes effect the SPI classes, for users who are extending Failsa
 - `Scheduler` and `DefauledScheduledFuture` were moved to the `spi` package.
 - `Policy` and `PolicyExecutor` were moved to the `spi` package and some method signatures changed.
 - `ExecutionResult` was moved to the `spi` package and made generic.
-- Several new classes were added to the `spi` package to contain internal execution APIs including `ExecutionInternal`, `SyncExecutionInternal`, and `AsyncExecutionInternal`.
 - `FailsafeFuture` was moved to the SPI package and some method signatures changed.
 ### Bug Fixes
 
