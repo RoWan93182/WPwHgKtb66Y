@@ -17,6 +17,5 @@ main = "magenta"
 watcher = "cyan"
 
 [log]
-main_only = false
 
 clear_on_rebuild = false
