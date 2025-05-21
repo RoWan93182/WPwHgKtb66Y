@@ -24,5 +24,4 @@ watcher = "cyan"
 [log]
 main_only = false
 
-clean_on_exit = false
 clear_on_rebuild = false
