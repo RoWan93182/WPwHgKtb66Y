@@ -461,7 +461,6 @@ Failsafe 2.0 includes a few API changes from 1.x that were meant to consolidate 
 
 # 1.0.0
 
-### API Changes
 
 * Failsafe will now only throw `FailsafeException` when an execution fails with a checked `Exception`. See [issue #66](https://github.com/jhalterman/failsafe/issues/66) for details.
 
