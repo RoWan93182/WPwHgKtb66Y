@@ -25,5 +25,4 @@ watcher = "cyan"
 main_only = false
 
 clean_on_exit = false
-[screen]
 clear_on_rebuild = false
