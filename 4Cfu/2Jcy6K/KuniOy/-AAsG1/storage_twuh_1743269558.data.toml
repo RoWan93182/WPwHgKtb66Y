@@ -13,7 +13,6 @@ include_dir = []
 kill_delay = "0s"
 poll_interval = 0
 rerun_delay = 500
-send_interrupt = false
 [color]
 app = ""
 main = "magenta"
