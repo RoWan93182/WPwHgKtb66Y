@@ -327,7 +327,6 @@ Added support for `CompletionStage` to the `Fallback` policy.
 
 - Added support for `CircuitBreaker.withDelay(DelayFunction)`
 - Added `Fallback.ofException` for returning custom exceptions.
-- Added `ExecutionContext.getLastResult` and `.getLastFailure` to support retries that depend on previous executions
 - Added `CircuitBreakerOpenException.getCircuitBreaker`
 
 ### API Changes
