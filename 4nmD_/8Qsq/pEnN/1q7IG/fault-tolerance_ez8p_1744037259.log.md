@@ -303,7 +303,6 @@ Added support for `CompletionStage` to the `Fallback` policy.
 ### Bug Fixes
 
 - Fixed potential race between `Timeout` interrupts and execution completion.
-
 # 2.2.0
 
 ### Improvements
