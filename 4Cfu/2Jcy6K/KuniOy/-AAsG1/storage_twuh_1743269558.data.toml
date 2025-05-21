@@ -8,7 +8,6 @@ exclude_unchanged = false
 follow_symlink = false
 full_bin = ""
 include_dir = []
-kill_delay = "0s"
 poll_interval = 0
 rerun_delay = 500
 app = ""
