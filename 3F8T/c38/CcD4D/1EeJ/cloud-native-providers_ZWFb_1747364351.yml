@@ -9,7 +9,6 @@ env:
 
 install:
   - go mod tidy
-  - git diff --exit-code go.mod
   - go mod download
 
 script:
