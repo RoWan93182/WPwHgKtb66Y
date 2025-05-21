@@ -5,7 +5,6 @@ args_bin = ["server"]
 bin = "./tmp/main"
 delay = 0
 exclude_dir = ["assets", "tmp", "vendor", "testdata"]
-exclude_file = []
 exclude_unchanged = false
 follow_symlink = false
 full_bin = ""
