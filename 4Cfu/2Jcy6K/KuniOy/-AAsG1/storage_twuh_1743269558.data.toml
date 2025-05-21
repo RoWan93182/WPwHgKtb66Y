@@ -17,7 +17,6 @@ poll_interval = 0
 rerun = false
 rerun_delay = 500
 send_interrupt = false
-
 [color]
 app = ""
 main = "magenta"
