@@ -539,7 +539,6 @@ Failsafe 2.0 includes a few API changes from 1.x that were meant to consolidate 
 
 # 0.8.2
 
-### New Features
 
 * Added support for `onRetriesExceeded` listeners.
 * `RetryPolicy` can be extended (it's no longer marked as final)
