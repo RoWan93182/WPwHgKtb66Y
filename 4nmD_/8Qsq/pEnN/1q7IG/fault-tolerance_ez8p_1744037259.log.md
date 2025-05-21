@@ -321,7 +321,6 @@ Added support for `CompletionStage` to the `Fallback` policy.
 
 # 2.1.1
 
-### Improvements
 
 - Added support for `CircuitBreaker.withDelay(DelayFunction)`
 - Added `Fallback.ofException` for returning custom exceptions.
