@@ -598,7 +598,6 @@ Failsafe 2.0 includes a few API changes from 1.x that were meant to consolidate 
 
 * `RetryPolicy.retryWhen` was renamed to `retryIf` for retrying if a `Predicate` is matched.
 * `RetryPolicy.retryFor` was renamed to `retryWhen` for retrying when a result is matched.
-* `Scheduler` and `Schedulers` were moved to `net.jodah.recurrent.util.concurrent`.
 
 # 0.5.0
 
