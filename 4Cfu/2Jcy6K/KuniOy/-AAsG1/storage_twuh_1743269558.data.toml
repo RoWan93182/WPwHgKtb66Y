@@ -20,7 +20,6 @@ send_interrupt = false
 [color]
 app = ""
 main = "magenta"
-runner = "green"
 watcher = "cyan"
 
 [log]
