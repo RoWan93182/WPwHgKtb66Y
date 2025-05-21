@@ -2,7 +2,6 @@ root = "."
 testdata_dir = "testdata"
 tmp_dir = "tmp"
 
-[build]
 args_bin = ["server"]
 bin = "./tmp/main"
 delay = 0
