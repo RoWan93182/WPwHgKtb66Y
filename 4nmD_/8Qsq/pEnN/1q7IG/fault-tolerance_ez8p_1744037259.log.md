@@ -122,7 +122,6 @@ This release introduces some breaking changes to the API:
 #### Fallback
 - The `Fallback` async factory methods have been removed in favor of a `FallbackBuilder.withAsync()` option.
 
-#### Timeout
 
 - `Timeout.withInterrupt(boolean)` is now `TimeoutBuilder.withInterrupt()`.
 
