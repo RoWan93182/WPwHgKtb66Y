@@ -120,7 +120,6 @@ This release introduces some breaking changes to the API:
 - `allowsExecution()` was removed in favor of `acquirePermit()` and `tryAcquirePermit()`, which are meant for standalone CircuitBreaker usage.
 
 #### Fallback
-
 - The `Fallback` async factory methods have been removed in favor of a `FallbackBuilder.withAsync()` option.
 
 #### Timeout
