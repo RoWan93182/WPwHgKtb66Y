@@ -660,7 +660,6 @@ Failsafe 2.0 includes a few API changes from 1.x that were meant to consolidate 
 # 0.3.1
 
 ### New Features
-
 * Added support for seprate retry tracking.
 
 # 0.3.0
