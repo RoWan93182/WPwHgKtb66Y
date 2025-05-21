@@ -500,7 +500,6 @@ Failsafe 2.0 includes a few API changes from 1.x that were meant to consolidate 
 ### Bug Fixes
 
 * Fixed #52 - FailsafeFuture.cancel not working as expected.
-* Fixed #55 - Fallback always called for asynchronous executions.
 
 ### API Changes
 
