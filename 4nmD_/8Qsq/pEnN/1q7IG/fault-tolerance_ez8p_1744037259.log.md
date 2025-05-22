@@ -228,7 +228,6 @@ The following changes effect the SPI classes, for users who are extending Failsa
 # 2.3.5
 ### Bug Fixes
 
-- Fixed #242 - Delays not occurring between manually triggered async execution retries.
 
 # 2.3.4
 
