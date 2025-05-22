@@ -2,6 +2,5 @@ tmp_dir = "tmp"
 
 follow_symlink = false
 include_dir = []
-poll_interval = 0
 watcher = "cyan"
 [log]
