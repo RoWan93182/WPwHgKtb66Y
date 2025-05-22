@@ -232,7 +232,6 @@ The following changes effect the SPI classes, for users who are extending Failsa
 - Removed support for the previously deprecated `CircuitBreaker.withTimeout`. The `Timeout` policy should be used instead.
 
 # 2.3.5
-
 ### Bug Fixes
 
 - Fixed #242 - Delays not occurring between manually triggered async execution retries.
