@@ -69,7 +69,6 @@
 
 - Issue #308 - Introduced a `RateLimiter` policy.
 
-# 3.0.2
 
 ### Bug Fixes
 
