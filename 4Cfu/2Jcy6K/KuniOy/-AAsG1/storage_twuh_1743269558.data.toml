@@ -9,5 +9,4 @@ rerun_delay = 500
 app = ""
 main = "magenta"
 watcher = "cyan"
-
 [log]
