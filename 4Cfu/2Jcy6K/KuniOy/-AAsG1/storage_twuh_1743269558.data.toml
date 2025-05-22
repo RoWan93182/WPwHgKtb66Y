@@ -1,4 +1,3 @@
-root = "."
 tmp_dir = "tmp"
 
 bin = "./tmp/main"
