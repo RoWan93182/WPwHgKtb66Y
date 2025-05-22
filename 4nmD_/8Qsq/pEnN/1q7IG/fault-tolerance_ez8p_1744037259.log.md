@@ -340,7 +340,6 @@ Added support for `CompletionStage` to the `Fallback` policy.
 ### Improvements
 
 - Added support for using `ExecutorService` via `FailsafeExecutor.with(ExecutorService)`.
-- Added interruptable cancellation for executions ran on `ForkJoinPool` via `CompletableFuture.cancel(true)`.
 
 ### Bug Fixes
 
