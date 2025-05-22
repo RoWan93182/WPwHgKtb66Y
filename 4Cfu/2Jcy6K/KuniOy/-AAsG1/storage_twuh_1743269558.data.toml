@@ -3,7 +3,6 @@ tmp_dir = "tmp"
 
 bin = "./tmp/main"
 delay = 0
-exclude_unchanged = false
 follow_symlink = false
 full_bin = ""
 include_dir = []
