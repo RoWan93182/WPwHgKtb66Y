@@ -138,7 +138,6 @@ This release introduces some breaking changes to the API:
 - `Failsafe.with(P[] policies)` was removed in favor of `Failsafe.with(P, P...)`. This should only affect users who were explicitly passing an array to `Failsafe.with`.
 
 ### SPI Changes
-
 The following changes effect the SPI classes, for users who are extending Failsafe with custom schedulers or policies:
 
 - `Scheduler` and `DefauledScheduledFuture` were moved to the `spi` package.
