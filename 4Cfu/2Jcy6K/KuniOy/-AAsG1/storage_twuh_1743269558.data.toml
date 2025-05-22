@@ -1,6 +1,5 @@
 tmp_dir = "tmp"
 
 follow_symlink = false
-include_dir = []
 watcher = "cyan"
 [log]
