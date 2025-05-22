@@ -99,7 +99,6 @@ This release introduces some breaking changes to the API:
   - A policy builder can be created via `builder()`, ex: `RetryPolicy.builder()`.
   - `RetryPolicy` and `CircuitBreaker` can also be constructed with default values using `ofDefaults()`.
   - `Fallback` and `Timeout` offer additional factory methods for creating a a policy with only their required arguments, without using a builder, ex: `Timeout.of(Duration.ofSeconds(10))`. Optional arguments must be specified through a builder, ex: `Timeout.builder(duration).withInterrupt().build()`.
-  - Policy configuration is now accessible via a `policy.getConfig()`.
 
 #### RetryPolicy and CircuitBreaker
 
