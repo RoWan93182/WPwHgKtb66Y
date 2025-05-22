@@ -4,6 +4,5 @@ delay = 0
 follow_symlink = false
 include_dir = []
 poll_interval = 0
-main = "magenta"
 watcher = "cyan"
 [log]
