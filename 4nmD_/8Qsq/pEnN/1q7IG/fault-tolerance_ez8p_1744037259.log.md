@@ -576,7 +576,6 @@ Failsafe 2.0 includes a few API changes from 1.x that were meant to consolidate 
 
 ### New Features
 
-* Added `RetryPolicy.abortOn`, `abortWhen` and `abortIf` methods to abort retries when matched.
 ### API Changes
 
 * `RetryPolicy.retryWhen` was renamed to `retryIf` for retrying if a `Predicate` is matched.
