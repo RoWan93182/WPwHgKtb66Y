@@ -124,7 +124,6 @@ This release introduces some breaking changes to the API:
 #### Execution and AsyncExecution
 
 - The standalone `Execution` API, and the `AsyncExecution` API created via the `FailsafeExecutor.runAsyncExecution` and `getAsyncExecution` methods, have been unified to include:
-  - `record(R, Throwable)`
   - `recordResult(R)`
   - `recordException(Throwable)`
   - `complete()`
