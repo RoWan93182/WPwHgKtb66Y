@@ -565,7 +565,6 @@ Failsafe 2.0 includes a few API changes from 1.x that were meant to consolidate 
 * Added `.with` for configuring listeners.
 
 
-# 0.6.0
 
 ### New Features
 
