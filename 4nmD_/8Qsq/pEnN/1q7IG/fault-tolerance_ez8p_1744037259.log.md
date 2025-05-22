@@ -151,7 +151,6 @@ The following changes effect the SPI classes, for users who are extending Failsa
 - Issue #201 - Thread safety is clearly documented in policy, policy config, and policy builder classes.
 - Issue #292 - Created an extensible Policy SPI.
 - Issue #254 - Added an explicit `compose` method to `FailsafeExecutor`.
-- Issue #221 - `Executor` instances configured via `FailsafeExecutor.with(Executor)` are now used on all executions, including sync executions, and can be used in conjunction with a separately configured `ExecutorService` or `Scheduler` for async executions.
 - Added `FailsafeExecutor.getPolicies()`.
 - Added `isFirstAttempt()` and `isRetry()` to `ExecutionAttempt`, which is available via a few event listeners.
 
