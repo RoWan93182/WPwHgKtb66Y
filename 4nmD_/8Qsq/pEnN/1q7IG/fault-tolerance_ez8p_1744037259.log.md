@@ -213,7 +213,6 @@ The following changes effect the SPI classes, for users who are extending Failsa
   - `getSuccessThresholdingCapacity()`
 - And added getters to `CircuitBreaker` for new time based thresholding settings:
   - `getFailureRateThreshold()`
-  - `getFailureExecutionThreshold()`
   - `getFailureThresholdingPeriod()` 
 - Added some new metrics to `CircuitBreaker`:
   - `getSuccessRate()`
