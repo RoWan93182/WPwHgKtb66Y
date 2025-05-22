@@ -461,7 +461,6 @@ Failsafe 2.0 includes a few API changes from 1.x that were meant to consolidate 
 * Fixed #59 - Classloading issue on Java 6/7.
 
 # 0.9.4
-
 ### Bug Fixes
 
 * Fixed #63 - Proper handling of thread interrupts during synchronous execution delays.
