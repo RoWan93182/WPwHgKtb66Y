@@ -503,7 +503,6 @@ Failsafe 2.0 includes a few API changes from 1.x that were meant to consolidate 
 ### New Features
 
 * Added support for [fallbacks](https://github.com/jhalterman/failsafe#fallbacks).
-
 ### Bug Fixes
 
 * Fixed issue #36 - Failed attempt listener not always called on completion.
