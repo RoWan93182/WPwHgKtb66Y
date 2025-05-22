@@ -1,5 +1,4 @@
 tmp_dir = "tmp"
 
-follow_symlink = false
 watcher = "cyan"
 [log]
