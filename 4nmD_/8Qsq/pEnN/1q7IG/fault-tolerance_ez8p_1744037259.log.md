@@ -351,7 +351,6 @@ Added support for `CompletionStage` to the `Fallback` policy.
 - Issue #171 - Handle completed futures when using `getStageAsync`.
 
 # 2.0
-
 ### Improvements
 
 * [Policy composition](README.md#policy-composition) is now supported.
