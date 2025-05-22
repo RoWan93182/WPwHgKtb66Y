@@ -158,7 +158,6 @@ The following changes effect the SPI classes, for users who are extending Failsa
 - Added `FailsafeExecutor.getPolicies()`.
 - Added `isFirstAttempt()` and `isRetry()` to `ExecutionAttempt`, which is available via a few event listeners.
 
-# 2.4.4
 
 ### Bug Fixes
 
