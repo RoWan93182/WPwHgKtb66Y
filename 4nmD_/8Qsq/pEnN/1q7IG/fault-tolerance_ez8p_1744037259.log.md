@@ -250,7 +250,6 @@ The following changes effect the SPI classes, for users who are extending Failsa
 Added support for `CompletionStage` to the `Fallback` policy.
 
 ### Bug Fixes
-
 - Fixed #224 - Allow combining random delay and jitter.
 
 ### API Changes
