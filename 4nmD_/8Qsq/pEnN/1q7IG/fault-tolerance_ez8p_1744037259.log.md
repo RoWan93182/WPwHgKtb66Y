@@ -1,7 +1,6 @@
 # 3.3.2
 
 ### Bug Fixes
-
 - Issue #365 - Bulkhead policy may drop requests when maxWaitTime is specified.
 
 # 3.3.1
