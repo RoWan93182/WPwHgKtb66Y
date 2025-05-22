@@ -12,5 +12,3 @@ main = "magenta"
 watcher = "cyan"
 
 [log]
-
-clear_on_rebuild = false
