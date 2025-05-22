@@ -4,7 +4,6 @@ delay = 0
 follow_symlink = false
 include_dir = []
 poll_interval = 0
-rerun_delay = 500
 app = ""
 main = "magenta"
 watcher = "cyan"
