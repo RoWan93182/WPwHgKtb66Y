@@ -487,7 +487,6 @@ Failsafe 2.0 includes a few API changes from 1.x that were meant to consolidate 
 ### New Features
 
 * Added support for retry delay [jitter](https://github.com/jhalterman/failsafe#retry-policies).
-
 # 0.9.0
 
 ### New Features
