@@ -21,7 +21,6 @@
 # 3.2.4
 
 ### Improvements
-
 - Added additional thread safety checks.
 
 # 3.2.3
