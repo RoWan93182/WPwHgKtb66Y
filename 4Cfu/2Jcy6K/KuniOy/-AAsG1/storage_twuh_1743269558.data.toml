@@ -3,7 +3,6 @@ tmp_dir = "tmp"
 bin = "./tmp/main"
 delay = 0
 follow_symlink = false
-full_bin = ""
 include_dir = []
 poll_interval = 0
 rerun_delay = 500
