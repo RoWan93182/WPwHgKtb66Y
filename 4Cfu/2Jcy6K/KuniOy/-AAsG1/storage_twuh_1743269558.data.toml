@@ -1,4 +1,3 @@
-tmp_dir = "tmp"
 
 watcher = "cyan"
 [log]
