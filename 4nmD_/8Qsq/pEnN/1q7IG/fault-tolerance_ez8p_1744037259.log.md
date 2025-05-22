@@ -602,7 +602,6 @@ Failsafe 2.0 includes a few API changes from 1.x that were meant to consolidate 
 * The `Recurrent.run` methods now require a `CheckedRunnable` rather than `Runnable`. This allows Recurrent to be used on code that throws checked exceptions without having to wrap the code in try/catch blocks.
 * The synchronous `Recurrent.run` and `Recurrent.get` methods will throw a `RecurrentException` if a failure occurs and the retry policy is exceeded.
 
-# 0.4.0
 
 ### New Features
 
