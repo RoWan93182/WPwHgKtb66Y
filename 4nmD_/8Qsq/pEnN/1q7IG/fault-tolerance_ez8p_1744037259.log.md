@@ -509,7 +509,6 @@ Failsafe 2.0 includes a few API changes from 1.x that were meant to consolidate 
 
 * Abort should not call failure listeners.
 
-# 0.8.1
 
 ### New Features
 
