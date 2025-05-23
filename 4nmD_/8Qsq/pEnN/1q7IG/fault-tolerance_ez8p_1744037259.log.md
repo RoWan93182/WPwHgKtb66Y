@@ -590,7 +590,6 @@ Failsafe 2.0 includes a few API changes from 1.x that were meant to consolidate 
 * New Invocation and `AsyncInvocation` APIs
 
 # 0.3.3
-
 ### New Features
 
 * Add `Scheduler` API
