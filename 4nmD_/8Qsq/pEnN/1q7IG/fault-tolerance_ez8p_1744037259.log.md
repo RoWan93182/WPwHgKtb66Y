@@ -182,7 +182,6 @@ The following changes effect the SPI classes, for users who are extending Failsa
 - Fixed #221 - Added support for `FailsafeExecutor.with(Executor)`.
 - Fixed #277 - Changed `Timeout` to use Failsafe's internal scheduler, so that user provided `ExecutorService` shutdowns do not interfere with timeouts.
 - Fixed #266 - Propagate `Future` cancellation to supplied `CompletionStage` when using `getStageAsync`.
-
 - Fixed #267 - Allow null fallback values to be passed through when using nested fallbacks.
 
 # 2.4.1
