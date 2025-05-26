@@ -542,7 +542,6 @@ Failsafe 2.0 includes a few API changes from 1.x that were meant to consolidate 
 
 ### API Changes
 
-* Invocation APIs were renamed to Execution to better align with the `java.util.concurrent` naming.
 * `InvocationStats.getAttemptCount()` was renamed to `ExecutionStats.getExecutions()`
 
 # 0.7.0
