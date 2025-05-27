@@ -228,7 +228,6 @@ The following changes effect the SPI classes, for users who are extending Failsa
 
 ### Improvements
 
-- Re-worked internal threading to only create async threads immediately prior to supplier execution. See #230.
 
 ### Bug Fixes
 
